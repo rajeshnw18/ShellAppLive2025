@@ -1,0 +1,64 @@
+{
+  "name": "shellweb",
+  "proxy": "http://localhost:5002/api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^2.3.0",
+    "@azure/msal-browser": "^4.0.2",
+    "@azure/msal-react": "^3.0.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@mui/icons-material": "^6.4.0",
+    "@mui/material": "^6.4.0",
+    "@react-google-maps/api": "^2.20.5",
+    "apexcharts": "^4.3.0",
+    "axios": "^1.7.9",
+    "cra-template": "1.2.0",
+    "file-saver": "^2.0.5",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mdb-react-ui-kit": "^9.0.0",
+    "mdbreact": "^5.2.0",
+    "pdfjs-dist": "^4.10.38",
+    "react": "^18.0.0",
+    "react-apexcharts": "^1.7.0",
+    "react-dom": "^18.0.0",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^7.1.1",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.0.2",
+    "web-vitals": "^4.2.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "dev": "concurrently '\"'npm start \" \"cd shellapi && npm start\"",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "prettier": "^3.4.2"
+  }
+}
