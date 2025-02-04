@@ -1,0 +1,154 @@
+NDT7678055
+
+update TblDealMaster_RefrenceNo set Locked_Status=1,Locked_By=null
+
+exec sp_updatestats
+
+glpat-yutx1sspHpkiGt9qszs-
+
+SAP CODE AND INVOICE.
+--CHIDHI SAWAD -HSN CODE
+--INVOICE TYPE IN CREDIT TYPE/XML
+CURRENCY RATE VALIDATION IN INVOICE GEN.
+
+https://nw18.atlassian.net/wiki/spaces/EA/pages/316833793/Review+-+June+27+2024
+
+EXEC sproc_ShellServicePendingRequestAlertsMorethan24HoursDev
+
+UAT DB RESTORE
+
+ActionSaveBooking();
+Please log into shell services tool its Mandatory !
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+--------------------------
+
+Refer to trail mail, UAT has been confirmed by the user side  , Please approve so that patch can be deployed in live server .
+
+I called you but you didn’t pick up the call.
+
+MCR....
+E-invoice.
+Wrap Code.
+
+Please Merged GIT Request .
+exe UpdateNewdll
+
+update SH_LOGIN_MST set DELETEMODULE=1
+
+update SH_LOGIN_MST set 
+Module_Master=1,
+Module_Deal=1,
+Module_Scheduling=1,
+Module_Reports=1,
+Module_Billing=1,
+Module_SponsorshipPlanning=1,
+Module_PromoPlanning=1,
+Module_ShellServices=1
+, DELETEMODULE=1
+
+TRUNCATE TABLE TRAFFIC_BILLING_LOCK
+
+UPDATE TRAFFIC_REPORT_MST SET LOCKEDBY=NULL
+
+exec TRANSFER '2022-01-05','IB7'
+
+919523403659
+8210655694-
+LPN0D00041178132
+SR788423869
+EXEC sproc_GetAsRunComparisionSpotsNonFct 'ib7','2021-09-30','PCR' 
+
+I am working on that and will update soon.
+
+swadmin
+
+No required details or scope to proceed furter on the request, hence closing the request.
+
+
+
+https://in.i.mi.com/#/
+alt_f4
+
+exec COMPAINOVER
+
+
+https://passbook.epfindia.gov.in/MemberPassBook/passbook
+
+Please get us approval from Chaitali mam for the same for any backend changes…
+
+sporc_UpdateInvoiceProgramNameBillingrateNew_BILL
+sproc_InvoiceBilling
+
+sProc_BeforeBillingCheck
+youtubepp.com/watch
+Ph-8882165353
+--------------'=
+192.168.26.221
+Gfx@4040
+$w$oftw@re@4040
+http://192.168.126.49:83/centralreport
+---------------
+192.168.41.214
+Ptpl@she11123
+
+UPICOLRA.93977992@HDFCBANK
+---------------
+18001080
+
+NRAK-K1PN0ITS9AFIOKIPP5KHK74GLJE
+
+UPDATE SH_MODULE_LOGIN_ACTION SET VALUE=0,ACTIVE=0
+WHERE AID IN (SELECT AID FROM SH_ACTION_MST WHERE [KEY]='IMPORT_ASRUN')
+
+
+https://claimsatoshi.xyz/?r=23821
+http://www.megatypers.com/
+
+
+https://claimsatoshi.xyz/?r=23821
+192.168.41.215
+Ptpl@network18
+---------------
+USE shellhyd
+SELECT name,* FROM sys.tables
+order by create_date desc
+----------------
+LGG-C17-8430714
+88607
+======
+lic-
+559616924
+5934
+
+जन्मदिन की हार्दिक शुभकामनाएं और बधाई🎂
+Love couple❤️
+
+UPDATE  TRAFFIC_BREAK_MST SET SEQUENCE_LOCK='Y'
+WHERE DATEDIFF(D,SequencedDate,'2019-01-25')=0
+AND ChannelId='IB7'
+
+CNN/MUM/20/09508
+
+146-40 SEAT
+
+9222208888-ASP YES
+
+sarabhya Electronic 
+Work From Home Due To COVID-19
+EXEC COMPAINOVER 'ERJS/BHP/18/01235'
+
+SS
+youtubepp.com
+
+DATEDIFF(D, @STARTDATE, ONAIR_DATE) >= 0 
+       AND DATEDIFF(D, @ENDDATE, ONAIR_DATE) <= 0 
+--sproc_GetDropSpotsReportforMultipleDay
+--sproc_getDropSpotDetails
+
+100054705396
+Iphone@15
+Hi,  I will be out of the office from 19-Feb-24 to 01-Mar-24. If you need immediate assistance, 
+please contact Rishi arya at rishi@nw18.com.    Thanks, Rajesh Kumar
+
+aravrajesh2023@gmail.com

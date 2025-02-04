@@ -125,6 +125,14 @@ const SideNav = () => {
                 </p>
             </Link>
  </li>
+ <li className="nav-item">
+            <Link to="/ChatBot" className="nav-link">
+                <i className="nav-icon fas fa-table" />
+                <p>
+                ChatBot
+                </p>
+            </Link>
+ </li>
 
  
                         </ul>

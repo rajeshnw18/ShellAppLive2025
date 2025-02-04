@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import { useNavigate } from 'react-router-dom';
 import { useAuth0 } from '@auth0/auth0-react';
+import ChatBot from 'react-simple-chatbot';
 import Cookies from "js-cookie";
 const Header = () => {
      const {logout}= useAuth0 ();
@@ -190,6 +191,28 @@ const Header = () => {
                     </div>
                 </div>
             </div>
+            <div>
+      <ChatBot
+    steps={[
+      {
+        id: '1',
+        message: 'What is your name?',
+        trigger: '2',
+      },
+      {
+        id: '2',
+        user: true,
+        trigger: '3',
+      },
+      {
+        id: '3',
+        message: 'Hi {previousValue}, nice to meet you!',
+        end: true,
+      },
+    ]}
+    floating={true}
+  />
+  </div>
         </div>
 
     )

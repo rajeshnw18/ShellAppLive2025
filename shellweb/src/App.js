@@ -12,6 +12,7 @@ import UserMaster from  './components/Master/UserMaster'
 import AgencyMaster from  './components/Master/AgencyMaster'
 import AdvertiserMaster from  './components/Master/AdvertiserM'
 import Location from  './components/Master/Location'
+import ChatBot from  './components/Master/ChatBotShell'
 import "./App.css"; // Custom CSS file
 
 function App() {
@@ -32,6 +33,8 @@ function App() {
             <Route path='/AgencyMaster' element={<AgencyMaster />}></Route>
             <Route path='/AdvertiserMaster' element={<AdvertiserMaster />}></Route>
             <Route path='/Location' element={<Location />}></Route>
+            <Route path='/Location' element={<Location />}></Route>
+            <Route path='/ChatBot' element={<ChatBot />}></Route>
             </Routes>
         </Router>
 
